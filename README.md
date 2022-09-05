@@ -1,2 +1,0 @@
-# actm-gallery
-ACTM Gallery
